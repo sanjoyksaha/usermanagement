@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11069215-b0a0-4aec-a686-c9ad41a7763b" name="Default Changelist" comment="" />
+    <list default="true" id="11069215-b0a0-4aec-a686-c9ad41a7763b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -159,6 +164,9 @@
       <updated>1588408115339</updated>
       <workItem from="1588408137500" duration="1727000" />
       <workItem from="1590568514731" duration="27000" />
+      <workItem from="1599309374126" duration="6000" />
+      <workItem from="1599309562794" duration="2822000" />
+      <workItem from="1599313119031" duration="619000" />
     </task>
     <servers />
   </component>
@@ -166,17 +174,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1590568538593">
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1599313122932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590568538593" />
-    <state x="358" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1590568514793">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="358" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590568514793" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588408628298">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588408628298" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599313122932" />
   </component>
 </project>
